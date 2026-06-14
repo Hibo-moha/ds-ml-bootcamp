@@ -11,13 +11,6 @@
 
 ---
 
-**Course:** Introduction to Data Science and Machine Learning
-**Due:** Monday, June 15, 2026 at 12:00 PM (Africa/Mogadishu / EAT)
-**Sources:** 16 references — books, scholarly articles, and peer-reviewed papers
-**Style:** Beginner-friendly, written in own words, all claims cited
-
----
-
 ## Table of Contents
 
 1. [Q1 — What Are Data Science and Machine Learning?](#q1----what-are-data-science-and-machine-learning)
